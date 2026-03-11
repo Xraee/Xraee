@@ -24,10 +24,12 @@ I'm currently a 3rd year student in Digipen - Singapore Institute of Technology 
 I'm currently working on a major project in school, Cheerios Engine. It's a custom 3D C++ Game Engine that we made from scratch to create a game ourselves. We are also using gyroscoping for camera movement in this game.
 
 ## 🛠️ Programming Languages
-C++ | C# | Python
+- C++
+- C#
+- Python
 
 ## ⚡ Fun Facts
 - Casual League of Legends since 2012
-- Struggling to main a gym schedule
+- Struggling to maintain a gym schedule
 - Favourite Pokemon is Sprigatito
 - Favourite Anime is Frieren
