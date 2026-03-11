@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 I'm Arshad, a game developer based in Singapore.
 
-🏫 I'm currently a 3rd year student in Digipen - Singapore Institute of Technology pursuing in Bachelor of Computer Science In Interactive Media and Game Development.
+## 🏫 School
+I'm currently a 3rd year student in Digipen - Singapore Institute of Technology pursuing in Bachelor of Computer Science In Interactive Media and Game Development.
 
-🔭 I'm currently working on a major project in school, Cheerios Engine. It's a custom 3D C++ Game Engine that we made from scratch to create a game ourselves. We are also using gyroscoping for camera movement in this game.
+## 🔭 Current Project
+I'm currently working on a major project in school, Cheerios Engine. It's a custom 3D C++ Game Engine that we made from scratch to create a game ourselves. We are also using gyroscoping for camera movement in this game.
 
-🛠️ Programming Languages: C++ | C# | Python
+## 🛠️ Programming Languages
+C++ | C# | Python
 
-⚡ Fun Facts:
+## ⚡ Fun Facts
 - Casual League of Legends since 2012
 - Struggling to main a gym schedule
 - Favourite Pokemon is Sprigatito
